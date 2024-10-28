@@ -8,6 +8,12 @@ fun main() {
     println(result)
 
     /**
-     * Listenin tersini alıp bize bir liste şeklinde geri döner.
+     * Verilen Listenin tersten sıralanmışını alıp bize bir liste şeklinde geri döner.
+     */
+
+    /**
+     * Çıktısı:
+     * [a, b, c]
+     * [c, b, a]
      */
 }
