@@ -14,7 +14,13 @@ fun main() {
     println(result)
 
     /**
-     * sumOf metoduyla birlikte de,verilen listenin içerisindeki nesnelerin age bilgilerini toplayıp bir değişkene atayabiliriz.
+     * sumOf metoduyla birlikte de,verilen listenin(users) içerisindeki nesnelerin age bilgilerini toplayıp bir değişkene atayabiliriz.
+     * sumOf metodu da sum metodu gibi bize Int geri  dönecektir.
+     */
+
+    /**
+     * Çıktısı:
+     * 75
      */
 
 }
