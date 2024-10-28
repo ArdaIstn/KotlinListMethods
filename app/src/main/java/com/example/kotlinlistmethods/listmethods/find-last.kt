@@ -13,4 +13,10 @@ fun main() {
      * Servisten veya local bir databasede veri çekiyorsak ve bu liste olarak gelecekse
      * firstOrNull veya lastOrNull kullanımı daha mantıklı olacaktır.
      */
+
+    /**
+     * Çıktısı:
+     * a
+     * c
+     */
 }
