@@ -13,4 +13,9 @@ fun main() {
      * sum metodu,verilen listenin tüm elemanlarını toplayıp bize Int olarak geri döndürür.
      */
 
+    /**
+     * Çıktısı:
+     * 15
+     */
+
 }
