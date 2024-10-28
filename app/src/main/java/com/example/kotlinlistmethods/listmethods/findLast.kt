@@ -9,4 +9,9 @@ fun main() {
      * Bu metodda ise,liste içerisindeki tüm elemanları gezer ve son a içeren elemanı bize geri döner.
      *
      */
+
+    /**
+     * Çıktısı:
+     * ab
+     */
 }
