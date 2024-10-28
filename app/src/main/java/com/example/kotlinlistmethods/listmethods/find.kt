@@ -10,4 +10,9 @@ fun main() {
      * Liste içerisindeki herhangi bir elemanı bulmak için find metodu kullanılır.
      * Eğer listede o eleman yoksa bize null dönecektir.
      */
+
+    /**
+     * Çıktısı:
+     * a
+     */
 }
