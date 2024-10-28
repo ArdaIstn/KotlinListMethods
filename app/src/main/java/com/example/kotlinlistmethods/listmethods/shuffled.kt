@@ -10,4 +10,10 @@ fun main() {
     /**
      * Listenin sıralamasını değiştirip,bize bir liste şeklinde geri döner.
      */
+
+    /**
+     * Çıktısı
+     * [b, c, a]
+     * Kodu her çalıştırdığımzda farklı bir sırayla çıktı verir.
+     */
 }
