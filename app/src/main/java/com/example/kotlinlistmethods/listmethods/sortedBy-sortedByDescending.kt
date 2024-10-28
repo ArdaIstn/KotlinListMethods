@@ -32,4 +32,12 @@ fun main() {
      * sortedByDescending ise büyükten küçüğe doğru sıralayıp bize bir liste döner.
      *
      */
+
+    /**
+     * Çıktısı:
+     * [User2(name=Mehmet, age=20), User2(name=Arda, age=25), User2(name=Ahmet, age=30)]
+     * [User2(name=Ahmet, age=30), User2(name=Arda, age=25), User2(name=Mehmet, age=20)]
+     * [User2(name=Ahmet, age=30), User2(name=Arda, age=25), User2(name=Mehmet, age=20)]
+     * [User2(name=Mehmet, age=20), User2(name=Arda, age=25), User2(name=Ahmet, age=30)]
+     */
 }
