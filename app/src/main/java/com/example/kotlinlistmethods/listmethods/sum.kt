@@ -1,6 +1,6 @@
 package com.example.kotlinlistmethods.listmethods
 
-data class User3(val name: String, val age: Int)
+
 
 fun main() {
 
