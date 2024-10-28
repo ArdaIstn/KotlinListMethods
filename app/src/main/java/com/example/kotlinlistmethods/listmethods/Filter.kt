@@ -13,4 +13,11 @@ fun main() {
      * it ifadesi aynı şekilde bize her bir liste elemanını verir.
      * filter metoduyla,süslü parantezler içerisindeki yer alan koşula göre filtreleme işlemini yapıp bize ayrı bir liste olarak dönecektir.
      */
+
+    /**
+     * Çıktısı:
+     * [1, 1]
+     * [4, 5]
+     *
+     */
 }
