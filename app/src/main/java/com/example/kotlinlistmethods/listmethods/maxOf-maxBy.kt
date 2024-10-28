@@ -23,4 +23,10 @@ fun main() {
      * maxBy metodu ise users listesindeki en büyük yaşa sahip data class nesnesini bize geri dönüdürür,item'ın kendisini döndürür.
      */
 
+    /**
+     * Çıktısı:
+     * 35
+     * User4(name=Charlie, age=35)
+     */
+
 }
