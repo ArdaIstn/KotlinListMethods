@@ -29,5 +29,12 @@ fun main() {
      * Yani burda,mapin içerisinde belirttiğimiz türde bir liste oluşur.
      */
 
+    /**
+     * Çıktısı:
+     * [UserUI(name=Arda), UserUI(name=Mehmet), UserUI(name=Ahmet)]
+     * [25, 30, 35]
+     * [Arda, Mehmet, Ahmet]
+     */
+
 
 }
