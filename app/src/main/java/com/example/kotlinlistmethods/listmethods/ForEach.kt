@@ -12,4 +12,13 @@ fun main() {
      * it ifadesi listedeki her bir elemanı temsil eder.
      */
 
+    /**
+     * Çıktısı
+     * 1
+     * 2
+     * 3
+     * 4
+     * 5
+     */
+
 }
