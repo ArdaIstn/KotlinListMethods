@@ -22,4 +22,10 @@ fun main() {
      * minBy ise en küçük yaşa sahip data class nesnesini bize döndürür.
      */
 
+    /**
+     * Çıktısı:
+     * 25
+     * User5(name=Bob, age=25)
+     */
+
 }
